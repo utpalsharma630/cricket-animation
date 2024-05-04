@@ -4,7 +4,7 @@
     
 }
 .bat{
-   width: 300px; 
+   width: 350px; 
    transition: transform 0.1s;
 }
 .ball{
@@ -21,5 +21,5 @@
     transform-origin: top right;
 }
 .feild:hover .ball{
-    transform: translate(1000px,-350px );
+    transform: translate(1000px,-400px );
 }
