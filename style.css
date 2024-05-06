@@ -23,3 +23,8 @@
 .feild:hover .ball{
     transform: translate(1000px,-400px );
 }
+.title{
+    font-size: 2rem;
+    text-align: center;
+    
+}
